@@ -1,0 +1,21 @@
+.plc{
+  display:flex;
+  flex-direction: column;
+}
+
+.q{
+  display:flex;
+  gap: 8px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 2px;
+  margin: 2px;
+}
+
+.q label {
+  cursor: pointer;
+}
+
+.th{
+  margin: 30px 10px;
+}
